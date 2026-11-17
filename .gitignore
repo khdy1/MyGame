@@ -1,0 +1,15 @@
+# Star2D: generated or machine-local files
+/dex/*
+!/dex/scenes.dex
+/bin/
+/logs/
+/log/
+/java/javac.*
+/java/java.version
+*.class
+/java/classes.dex
+/Events/JavaChanges.json
+/Events/*/UndoRedo.json
+# scene code is regenerated from the scenes and blocks on every Run
+/java/com/star4droid/Game/*.java
+.DS_Store
